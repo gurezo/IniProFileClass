@@ -1,4 +1,4 @@
-' @(h) clsIniProfileClass.vb          ver 01.00.00 ('2005.05.19 –Ø•é)
+' @(h) clsIniProfileClass.vb          ver 01.00.00
 '
 ' @(s)
 ' 
